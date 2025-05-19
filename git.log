@@ -1,0 +1,48 @@
+commit 7ff4602e3cee8aef5cc9551b65f47b6358dcb3f6
+Merge: a4e2869 524c735
+Author: 6runa7 <241205106@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 19 14:33:35 2025 +0900
+
+    Merge branch 'main' of https://github.com/6runa7/kenkyu-2
+
+commit a4e28690a2d099c047c13b7c20c02686c1c05c87
+Author: 6runa7 <241205106@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 19 14:29:08 2025 +0900
+
+    Update tetris.js
+
+commit 879964180bae559bc8017adda176ca702ad5d830
+Author: 6runa7 <241205106@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 19 14:26:25 2025 +0900
+
+    ３つ目をskyblueに変更
+
+commit 524c7358d5320ad8bbbe755823003ec7d7ad0b8c
+Author: 6runa7 <241205106@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 19 14:19:51 2025 +0900
+
+    Update tetris.js
+
+commit 2fd7ede80c29291ffa68a70fb6858061d62dadc9
+Author: 6runa7 <241205106@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 19 14:15:25 2025 +0900
+
+    ピースの速度と色を変更
+
+commit cff3309d036ba297a0f50cd81120435d4bf00b45
+Author: 6runa7 <241205106@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 19 14:06:46 2025 +0900
+
+    limeに変更
+
+commit 5614421d90615d7e6cfcb262b66eaff4e22dd269
+Author: 6runa7 <241205106@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 19 14:04:38 2025 +0900
+
+    ピースの色を変更
+
+commit ff88aa213786f1405ddda3223d21479c58181dd1
+Author: 6runa7 <241205106@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 19 13:48:00 2025 +0900
+
+    canvas-tetrisのソースコードをインポート
